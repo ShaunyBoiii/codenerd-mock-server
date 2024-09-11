@@ -1,0 +1,2 @@
+npm install --save-dev json-server@0.17.4
+this is the only version that works
